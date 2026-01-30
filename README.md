@@ -16,6 +16,14 @@ This repository contains the mobile client.
 - Smooth animations and responsive UI
 - Network resilience under variable connectivity
 
+## Screenshots
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=12_Vgs0xbkrwMvPiXwoWSL0UxuYg8mhSM" width="250" />
+  <img src="https://drive.google.com/uc?export=view&id=1IM9N8tdmL8joYbO6KXUphCiVAk9mzosL" width="250" />
+  <img src="https://drive.google.com/uc?export=view&id=1QZxKVWrkv56Miqjv4lH7M16ce8jSpRQF" width="250" />
+</p>
+
 ## Tech Stack
 
 - Flutter (Dart)
@@ -35,7 +43,7 @@ Special attention is given to performance profiling and minimizing UI jank durin
 
 ## Status
 
-Production-ready 
+Production-ready / Actively maintained  
 (Some backend services and credentials omitted)
 
 ## Notes
