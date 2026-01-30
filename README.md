@@ -19,9 +19,9 @@ This repository contains the mobile client.
 ## Screenshots
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=12_Vgs0xbkrwMvPiXwoWSL0UxuYg8mhSM" width="250" />
-  <img src="https://drive.google.com/uc?export=view&id=1IM9N8tdmL8joYbO6KXUphCiVAk9mzosL" width="250" />
-  <img src="https://drive.google.com/uc?export=view&id=1QZxKVWrkv56Miqjv4lH7M16ce8jSpRQF" width="250" />
+  <img src="assets/screenshots/yp-app1.jpg" width="250" />
+  <img src="assets/screenshots/yp-app2.jpg" width="250" />
+  <img src="assets/screenshots/yp-app3.jpg" width="250" />
 </p>
 
 ## Tech Stack
